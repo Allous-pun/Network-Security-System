@@ -7,7 +7,7 @@ An AI and ML power security system
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Allous-pun/Network-Security-System
+   git clone https://github.com/Allous-pun/Network-Security-System.git
    cd IDS
 
 2. Set Up Virtual Environment (Optional but Recommended)
